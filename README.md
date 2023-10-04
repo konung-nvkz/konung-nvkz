@@ -7,8 +7,11 @@ Later on I will add some information here to let you know some more facts about 
 
 <div><a href="https://t.me/kiprin_egor"><img src="/icons/telegram.png" alt="Telegram"></a></div>
 
+[https://t.me/kiprin_egor]([/icons/telegram.png](Telegram))
+
 <!-- <img src="/icons/telegram.png" alt="Telegram">
 ![/icons/telegram.png](Telegram) -->
+
  
 ## I use these languages and tools:
 
