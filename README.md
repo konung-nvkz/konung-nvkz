@@ -20,7 +20,7 @@ I am seeking assistance in staying up-to-date with the most recent web developme
 
 ## You can find me here
 
-+ Connect with me via Telegram: [<img src="/icons/telegram.svg" alt="Telegram" width="20" height="20" alt="Telegram">](https://t.me/kiprin_egor)
++ Connect with me via Telegram: [<img src="/icons/telegram.svg" alt="Telegram" width="40" height="20" alt="Telegram">](https://t.me/kiprin_egor)
 
 + Write me an email:
 [kiprin.egor@yandex.ru](mailto:kiprin.egor@yandex.ru).
@@ -29,12 +29,20 @@ Looking forward to hearing from you!
 
 ## I use these languages and tools
 
+<p align="left"> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
+<!-- 
 [![HTML](https://github.com/konung-nvkz/konung-nvkz/main/icons/html.svg|width=30px)](https://www.w3.org/html/)
 [![CSS](https://github.com/konung-nvkz/konung-nvkz/main/icons/css.svg|width=30px)](https://www.w3schools.com/css/)
 [![JavaScript](https://github.com/konung-nvkz/konung-nvkz/main/icons/javascript.svg|width=30px)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://github.com/konung-nvkz/konung-nvkz/main/icons/typescript.svg|width=30px)](https://www.typescriptlang.org/)
 [![React](https://github.com/konung-nvkz/konung-nvkz/main/icons/react.svg|width=30px)](https://reactjs.org/)
-[![Webpack](https://github.com/konung-nvkz/konung-nvkz/main/icons/webpack.svg|width=30px)](https://webpack.js.org/)
+[![Webpack](https://github.com/konung-nvkz/konung-nvkz/main/icons/webpack.svg|width=30px)](https://webpack.js.org/) -->
 
 <!-- 
 ## I use these languages and tools
