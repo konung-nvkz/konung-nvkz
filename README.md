@@ -1,19 +1,42 @@
-### Hi there 👋 
-My name is Egor Kiprin, and you are currently at my personal git page.
+# konung-nvkz
 
-Later on I will add some information here to let you know some more facts about me.
+## Welcome to my personal GitHub page👋
 
-## You can find me here:
+A long time ago in a galaxy far, far away...
 
-<div><a href="https://t.me/kiprin_egor"><img src="/icons/telegram.png" alt="Telegram"></a></div>
+To cut a long story short.
+My name is Egor Kiprin, and I'm a developer with a passion for learning and creating web applications. Let's get acquainted.
 
-[![Telegram](/icons/telegram.png)](https://t.me/kiprin_egor)
+I will not overload you with fun facts about by bio. I have a background in teaching and supply chain, but have transitioned to web development and am currently focused on expanding my skills in HTML, CSS, JavaScript, and React.js. I always liked to learn how things work.
 
-<!-- <img src="/icons/telegram.png" alt="Telegram">
-![/icons/telegram.png](Telegram) -->
+At the moment, I am broadening my skills in HTML, CSS, JavaScript and React.js. Learning via practice and diving into docs and manuals - that's what I do.
 
- 
-## I use these languages and tools:
+Diving deep into the ocean of knowledge is captivating.
+You sometimes find yourself in the middle of the sea of computer science. Learning concepts, understanding things, making them work the way you want them to work... Or looking for the details you haven't mention before.
+
+I am interested in joining forces on thrilling web development projects. If you possess any concepts or openings for collaboration, please don't hesitate to contact me. I am perpetually eager to collaborate with skilled individuals and make contributions to groundbreaking projects.
+
+I am seeking assistance in staying up-to-date with the most recent web development trends and programming best practices. If you have any valuable resources or insights to offer, I would greatly appreciate if you share.
+
+## You can find me here
+
+Connect with me via Telegram: :
+
++[![Telegram](/icons/telegram.svg)](https://t.me/kiprin_egor)
+
++Write me an email:
+[kiprin.egor@yandex.ru](mailto:kiprin.egor@yandex.ru).
+
+Looking forward to hearing from you!
+
+## I use these languages and tools
+
+[![HTML](/icons/html.svg)](https://www.w3.org/html/)
+[![CSS](/icons/css.svg)](https://www.w3schools.com/css/)
+[![JavaScript](/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](/icons/typescript.svg)](https://www.typescriptlang.org/)
+[![React](/icons/react.svg)](https://reactjs.org/)
+[![Webpack](/icons/webpack.svg)](https://webpack.js.org/)
 
 <!--
 **konung-nvkz/konung-nvkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
