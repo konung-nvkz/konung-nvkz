@@ -7,7 +7,8 @@ Later on I will add some information here to let you know some more facts about 
 
 <div>Telegram: <a href="https://t.me/kiprin_egor">kiprin_egor</a></div>
 
-
+<img src="/icons/telegram.png" alt="Telegram">
+![/icons/telegram.png](Telegram)
  
 ## I use these languages and tools:
 
