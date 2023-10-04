@@ -20,9 +20,9 @@ I am seeking assistance in staying up-to-date with the most recent web developme
 
 ## You can find me here
 
-Connect with me via Telegram: :
+Connect with me via Telegram:
 
-+ <img src="/icons/telegram.svg" alt="Telegram" width="20" height="20"> [Telegram](https://t.me/kiprin_egor)
++ [<img src="/icons/telegram.svg" alt="Telegram" width="20" height="20" alt="Telegram">](https://t.me/kiprin_egor)
 
 + Write me an email:
 [kiprin.egor@yandex.ru](mailto:kiprin.egor@yandex.ru).
