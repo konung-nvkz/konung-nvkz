@@ -29,12 +29,12 @@ Looking forward to hearing from you!
 
 ## I use these languages and tools
 
-[![HTML](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/main/icons/html.svg|width=25px)](https://www.w3.org/html/)
-[![CSS](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/main/icons/css.svg|width=25px)](https://www.w3schools.com/css/)
-[![JavaScript](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/main/icons/javascript.svg|width=25px)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/main/icons/typescript.svg|width=25px)](https://www.typescriptlang.org/)
-[![React](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/main/icons/react.svg|width=25px)](https://reactjs.org/)
-[![Webpack](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/main/icons/webpack.svg|width=25px)](https://webpack.js.org/)
+[![HTML](https://github.com/konung-nvkz/konung-nvkz/main/icons/html.svg|width=25px)](https://www.w3.org/html/)
+[![CSS](https://github.com/konung-nvkz/konung-nvkz/main/icons/css.svg|width=25px)](https://www.w3schools.com/css/)
+[![JavaScript](https://github.com/konung-nvkz/konung-nvkz/main/icons/javascript.svg|width=25px)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://github.com/konung-nvkz/konung-nvkz/main/icons/typescript.svg|width=25px)](https://www.typescriptlang.org/)
+[![React](https://github.com/konung-nvkz/konung-nvkz/main/icons/react.svg|width=25px)](https://reactjs.org/)
+[![Webpack](https://github.com/konung-nvkz/konung-nvkz/main/icons/webpack.svg|width=25px)](https://webpack.js.org/)
 
 <!-- 
 ## I use these languages and tools
