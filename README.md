@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Egor Kiprin, and you are currently at my personal git page.
+### Hi there 👋 
+## My name is Egor Kiprin, and you are currently at my personal git page.
 Later on I will add some information here to let you know some more facts about me.
 
 
