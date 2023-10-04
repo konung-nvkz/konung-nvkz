@@ -5,10 +5,10 @@ Later on I will add some information here to let you know some more facts about 
 
 ## You can find me here:
 
-<div>Telegram: <a href="https://t.me/kiprin_egor">kiprin_egor</a></div>
+<div>Telegram: <a href="https://t.me/kiprin_egor"><img src="/icons/telegram.png" alt="Telegram"></a></div>
 
-<img src="/icons/telegram.png" alt="Telegram">
-![/icons/telegram.png](Telegram)
+<!-- <img src="/icons/telegram.png" alt="Telegram">
+![/icons/telegram.png](Telegram) -->
  
 ## I use these languages and tools:
 
