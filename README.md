@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Egor Kiprin, and you are currently at my personal git page.
 Later on I will add some information here to let you know some more facts about me.
 
+
+<img align="left" src="https://camo.githubusercontent.com/f15d2ed72c1060901476d15498240e427e4059a6b32145b74246507d41c58d3d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d64696c6d757261743737372673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="dilmurat777" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=konung-nvkz&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 <!--
 **konung-nvkz/konung-nvkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
