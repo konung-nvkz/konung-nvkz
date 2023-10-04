@@ -6,7 +6,9 @@ Later on I will add some information here to let you know some more facts about 
 ## You can find me here:
 
 <div>Telegram: <a href="https://t.me/kiprin_egor">kiprin_egor</a></div>
- <a href="mailto:kiprin.egor@yandex.ru" alt="Send an e-mail"> Send me an e-mail</a>
+
+<img align="center" src="![image](https://github.com/konung-nvkz/konung-nvkz/assets/117963845/af789efc-2545-45b4-bbe0-f077de114d80)
+" alt="[https://t.me/kiprin_egor](https://t.me/kiprin_egor)" height="30" width="40" style="max-width: 100%;">
  
 ## I use these languages and tools:
 
