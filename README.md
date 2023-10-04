@@ -20,7 +20,7 @@ I am seeking assistance in staying up-to-date with the most recent web developme
 
 ## You can find me here
 
-+ Connect with me via Telegram: [<img src="/icons/telegram.svg" alt="Telegram" width="40" height="20" alt="Telegram">](https://t.me/kiprin_egor)
++ Connect with me via Telegram: [<img src="/icons/telegram.svg" alt="Telegram" width="40" height="40" alt="Telegram">](https://t.me/kiprin_egor)
 
 + Write me an email:
 [kiprin.egor@yandex.ru](mailto:kiprin.egor@yandex.ru).
