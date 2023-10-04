@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## My name is Egor Kiprin, and you are currently at my personal git page.
+My name is Egor Kiprin, and you are currently at my personal git page.
 
 Later on I will add some information here to let you know some more facts about me.
 
@@ -7,8 +7,7 @@ Later on I will add some information here to let you know some more facts about 
 
 <div>Telegram: <a href="https://t.me/kiprin_egor">kiprin_egor</a></div>
 
-<img align="center" src="![image](https://github.com/konung-nvkz/konung-nvkz/assets/117963845/af789efc-2545-45b4-bbe0-f077de114d80)
-" alt="[https://t.me/kiprin_egor](https://t.me/kiprin_egor)" height="30" width="40" style="max-width: 100%;">
+
  
 ## I use these languages and tools:
 
