@@ -22,13 +22,13 @@ I am seeking assistance in staying up-to-date with the most recent web developme
 
 Connect with me via Telegram: :
 
-+[![Telegram](/icons/telegram.svg)](https://t.me/kiprin_egor)
++ <img src="/icons/telegram.svg" alt="Telegram" width="20" height="20"> [Telegram](https://t.me/kiprin_egor)
 
-+Write me an email:
++ Write me an email:
 [kiprin.egor@yandex.ru](mailto:kiprin.egor@yandex.ru).
 
 Looking forward to hearing from you!
-
+<!-- 
 ## I use these languages and tools
 
 [![HTML](/icons/html.svg)](https://www.w3.org/html/)
@@ -36,7 +36,7 @@ Looking forward to hearing from you!
 [![JavaScript](/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](/icons/typescript.svg)](https://www.typescriptlang.org/)
 [![React](/icons/react.svg)](https://reactjs.org/)
-[![Webpack](/icons/webpack.svg)](https://webpack.js.org/)
+[![Webpack](/icons/webpack.svg)](https://webpack.js.org/) -->
 
 <!--
 **konung-nvkz/konung-nvkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
