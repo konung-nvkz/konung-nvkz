@@ -26,6 +26,16 @@ I am seeking assistance in staying up-to-date with the most recent web developme
 [kiprin.egor@yandex.ru](mailto:kiprin.egor@yandex.ru).
 
 Looking forward to hearing from you!
+
+## I use these languages and tools
+
+[![HTML](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/blob/main/icons/html.svg|width=25px)](https://www.w3.org/html/)
+[![CSS](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/blob/main/icons/css.svg|width=25px)](https://www.w3schools.com/css/)
+[![JavaScript](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/blob/main/icons/javascript.svg|width=25px)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/blob/main/icons/typescript.svg|width=25px)](https://www.typescriptlang.org/)
+[![React](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/blob/main/icons/react.svg|width=25px)](https://reactjs.org/)
+[![Webpack](https://raw.githubusercontent.com/konung-nvkz/konung-nvkz/blob/main/icons/webpack.svg|width=25px)](https://webpack.js.org/)
+
 <!-- 
 ## I use these languages and tools
 
