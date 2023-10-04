@@ -38,6 +38,8 @@ Looking forward to hearing from you!
 </p>
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40px">](https://www.w3schools.com/css/)
+
+[![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)|width=40px](https://www.w3schools.com/css/)
 <!-- 
 [![HTML](https://github.com/konung-nvkz/konung-nvkz/main/icons/html.svg|width=30px)](https://www.w3.org/html/)
 [![CSS](https://github.com/konung-nvkz/konung-nvkz/main/icons/css.svg|width=30px)](https://www.w3schools.com/css/)
