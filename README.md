@@ -38,11 +38,11 @@ Looking forward to hearing from you!
 </p> -->
 
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40px" margin="5px" padding="15px">](https://www.w3.org/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40px" margin="5px">](https://www.w3schools.com/css/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" margin="5px" padding="15px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40px" padding="15px">](https://reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px" padding="15px">](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40px">](https://www.w3.org/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40px">](https://www.w3schools.com/css/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40px">](https://reactjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px">](https://www.typescriptlang.org/)
 <!-- [<img src="" alt="" width="40px" margin="5px">]() -->
 
 <!-- 
