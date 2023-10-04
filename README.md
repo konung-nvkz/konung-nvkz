@@ -1,11 +1,11 @@
 # konung-nvkz
 
-## Welcome to my personal GitHub page👋
+## Welcome to my personal GitHub page
 
 A long time ago in a galaxy far, far away...
 
 To cut a long story short.
-My name is Egor Kiprin, and I'm a developer with a passion for learning and creating web applications. Let's get acquainted.
+My name is Egor Kiprin, and I'm a developer with a passion for learning and creating web applications. Let's get acquainted 👋.
 
 I will not overload you with fun facts about by bio. I have a background in teaching and supply chain, but have transitioned to web development and am currently focused on expanding my skills in HTML, CSS, JavaScript, and React.js. I always liked to learn how things work.
 
@@ -22,7 +22,7 @@ I am seeking assistance in staying up-to-date with the most recent web developme
 
 + Connect with me via Telegram: [<img src="/icons/telegram.svg" alt="Telegram" width="40" height="40" alt="Telegram">](https://t.me/kiprin_egor)
 
-+ Write me an email:
++ Write me an e-mail 📫:
 [kiprin.egor@yandex.ru](mailto:kiprin.egor@yandex.ru).
 
 Looking forward to hearing from you!
@@ -36,6 +36,8 @@ Looking forward to hearing from you!
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
+
+[![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg|width=40px)](https://www.w3schools.com/css/)
 <!-- 
 [![HTML](https://github.com/konung-nvkz/konung-nvkz/main/icons/html.svg|width=30px)](https://www.w3.org/html/)
 [![CSS](https://github.com/konung-nvkz/konung-nvkz/main/icons/css.svg|width=30px)](https://www.w3schools.com/css/)
