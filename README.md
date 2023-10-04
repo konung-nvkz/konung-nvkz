@@ -29,39 +29,12 @@ Looking forward to hearing from you!
 
 ## I use these languages and tools
 
-<!-- <p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p> -->
-
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40px">](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40px">](https://www.w3schools.com/css/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40px">](https://reactjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px">](https://www.typescriptlang.org/)
 <!-- [<img src="" alt="" width="40px" margin="5px">]() -->
-
-<!-- 
-[![HTML](https://github.com/konung-nvkz/konung-nvkz/main/icons/html.svg|width=30px)](https://www.w3.org/html/)
-[![CSS](https://github.com/konung-nvkz/konung-nvkz/main/icons/css.svg|width=30px)](https://www.w3schools.com/css/)
-[![JavaScript](https://github.com/konung-nvkz/konung-nvkz/main/icons/javascript.svg|width=30px)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://github.com/konung-nvkz/konung-nvkz/main/icons/typescript.svg|width=30px)](https://www.typescriptlang.org/)
-[![React](https://github.com/konung-nvkz/konung-nvkz/main/icons/react.svg|width=30px)](https://reactjs.org/)
-[![Webpack](https://github.com/konung-nvkz/konung-nvkz/main/icons/webpack.svg|width=30px)](https://webpack.js.org/) -->
-
-<!-- 
-## I use these languages and tools
-
-[![HTML](/icons/html.svg)](https://www.w3.org/html/)
-[![CSS](/icons/css.svg)](https://www.w3schools.com/css/)
-[![JavaScript](/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](/icons/typescript.svg)](https://www.typescriptlang.org/)
-[![React](/icons/react.svg)](https://reactjs.org/)
-[![Webpack](/icons/webpack.svg)](https://webpack.js.org/) -->
 
 <!--
 **konung-nvkz/konung-nvkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
