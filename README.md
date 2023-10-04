@@ -2,8 +2,10 @@
 ## My name is Egor Kiprin, and you are currently at my personal git page.
 Later on I will add some information here to let you know some more facts about me.
 
+## You can find me here:
+<div>Telegram: <a href="https://t.me/kiprin_egor">kiprin_egor</a></div>
+## I use these languages and tools:
 
-<img align="left" src="https://camo.githubusercontent.com/konung-nvkz" alt="konung-nvkz" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=konung-nvkz&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 <!--
 **konung-nvkz/konung-nvkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
