@@ -4,6 +4,7 @@ Later on I will add some information here to let you know some more facts about 
 
 ## You can find me here:
 <div>Telegram: <a href="https://t.me/kiprin_egor">kiprin_egor</a></div>
+ <a href="mailto:kiprin.egor@yandex.ru" alt="Написать" class="footer__social_item"></a>
 ## I use these languages and tools:
 
 <!--
