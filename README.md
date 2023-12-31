@@ -2,6 +2,8 @@
 
 ## Welcome to my personal GitHub page
 
+First of all, Happy New Year and Merry Christmas! Wish you all happiness!
+
 A long time ago in a galaxy far, far away...
 
 To cut a long story short.
