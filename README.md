@@ -2,9 +2,6 @@
 
 ## Welcome to my personal GitHub page
 
-First of all, Happy New Year and Merry Christmas! Wish you all happiness!
-It is the 1-st day of 2024. Hope we all have a great year.
-
 A long time ago in a galaxy far, far away...
 
 To cut a long story short.
