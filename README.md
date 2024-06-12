@@ -17,6 +17,7 @@ You sometimes find yourself in the middle of the sea of computer science. Learni
 I am interested in joining forces on thrilling web development projects. If you possess any concepts or openings for collaboration, please don't hesitate to contact me. I am perpetually eager to collaborate with skilled individuals and make contributions to groundbreaking projects.
 
 I am seeking assistance in staying up-to-date with the most recent web development trends and programming best practices. If you have any valuable resources or insights to offer, I would greatly appreciate if you share.
+One of my interests is improving skills of technical writing. So in plans I am going to make a repo with notes on the topic.
 
 ## You can find me here
 
